@@ -4,13 +4,7 @@ Welcome to the Evolutionary Biology of Infectious Diseases (EDID) Lab! 🌟 We a
 
 ## Research Focus
 
-Our research spans a wide range of topics within the field of evolutionary biology and infectious diseases, including:
-
-- **Pathogen Evolution**: Studying the genetic and phenotypic changes that occur in pathogens over time, and how these changes influence their ability to infect hosts and evade immune responses. 🧬
-- **Host-Pathogen Interactions**: Exploring the molecular and cellular mechanisms that govern the interactions between pathogens and their hosts, with a focus on co-evolutionary dynamics. 🔬
-- **Epidemiology and Disease Dynamics**: Investigating the patterns and drivers of disease outbreaks, and developing predictive models to inform public health strategies. 🌍
-- **Genomic Surveillance**: Utilizing genomic sequencing technologies to monitor the spread and evolution of infectious diseases in real-time, enabling rapid response to emerging threats. 🧫
-- **Drug Resistance and Vaccine Efficacy**: Examining the evolutionary pressures that lead to drug resistance and vaccine escape, and developing strategies to overcome these challenges. 💉
+Our research spans a wide range of topics within the field of evolutionary biology and infectious diseases, including pathogen evolution, host-pathogen interactions, epidemiology and disease dynamics, genomic surveillance and vaccine efficacy.
 
 ## Members
 
