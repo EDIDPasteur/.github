@@ -1,6 +1,6 @@
 # Evolutionary Biology of Infectious Diseases (EDID) Lab 🦠🧬
 
-Welcome to the Evolutionary Biology of Infectious Diseases (EDID) Lab! 🌟 Our lab is dedicated to understanding the intricate dynamics of infectious diseases through the lens of evolutionary biology. By integrating multidisciplinary approaches, we aim to shed light on the mechanisms that drive the evolution and spread of pathogens, and to develop innovative strategies for disease control and prevention.
+Welcome to the Evolutionary Biology of Infectious Diseases (EDID) Lab! 🌟 We are part of the the Computational Biology Departmen at the tInstitut Pasteur in Paris, France.
 
 ## Research Focus
 
