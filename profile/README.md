@@ -1,6 +1,6 @@
 # Evolutionary Biology of Infectious Diseases (EDID) Lab 🦠🧬
 
-Welcome to the Evolutionary Biology of Infectious Diseases (EDID) Lab! 🌟 We are part of the the Computational Biology Departmen at the tInstitut Pasteur in Paris, France.
+Welcome to the Evolutionary Biology of Infectious Diseases (EDID) Lab! We are part of the the Computational Biology Department at the Institut Pasteur in Paris, France.
 
 ## Research Focus
 
@@ -9,20 +9,19 @@ Our research spans a wide range of topics within the field of evolutionary biolo
 ## Members
 
 ### Faculty
-- **Sebastian Duchene**
-  *Head of Structure* 🌟
+- Sebastian Duchene
+  *Head of Structure*
 
 ### Post-Doctoral Researchers
-- **Maria Lopopolo**
-  *Post-Doc* 🔬
+- Maria Lopopolo 
 
 ### Ph.D. Students
-- **John Tay** 👨‍🎓
+- John Tay 
 
 ### Research Engineers
-- **Camila Duitama González** 🛠️
-- **Jordi Sevilla Fortuny** 🛠️
+- Camila Duitama González 
+- Jordi Sevilla Fortuny 
 
 ### Undergraduate Research Interns
-- **Samuel Fosse** 👨‍🎓
-- **Simona Ivanov** 👩‍🎓
+- Samuel Fosse 
+- Simona Ivanov 
