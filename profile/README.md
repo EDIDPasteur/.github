@@ -13,15 +13,15 @@ Our research spans a wide range of topics within the field of evolutionary biolo
   *Head of Structure*
 
 ### Post-Doctoral Researchers
-- Maria Lopopolo 
+- Maria Lopopolo
+- Ighor Arantes 
 
 ### Ph.D. Students
 - John Tay 
 
 ### Research Engineers
 - Camila Duitama González 
-- Jordi Sevilla Fortuny 
+- Julia Kende 
 
 ### Undergraduate Research Interns
-- Samuel Fosse 
-- Simona Ivanov 
+- Emma Gairaud
